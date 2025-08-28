@@ -1,0 +1,74 @@
+
+Mobile App UI Development Task — Ionic Angular Project
+
+Hi,
+
+I’ve attached a mobile app single page screenshot that I want you to replicate as the UI for a new Ionic Angular mobile application.
+Please follow these instructions carefully:
+
+***Project Requirements***
+
+1. UI Only — No Deep Logic
+- Implement only the UI layer as shown in the attached image.
+- Do not implement any functional or backend logic at this stage.
+
+2. Pixel-Perfect Design
+- Match the layout and appearance exactly as shown in the image.
+- Focus on fonts, spacing, colors, alignment, shadows, icons, and components — everything should look identical, pixel by pixel.
+
+3. Component-Based Structure
+- Build using standalone Angular components to promote: Reusability, Scalability, Clean code separation
+- Use meaningful names and folders (e.g., /components/HeaderComponent, /components/CardItem, etc.)
+
+4. Mobile Responsiveness
+- The UI must work flawlessly across all mobile screen sizes.
+- Use Ionic's grid system, ion-grid, ion-row, ion-col, and responsive utilities to ensure flexibility and adaptability.
+
+5. Animations & Motions
+- Add smooth, user-friendly animations where appropriate: Card fade-ins, Button presses, Tab changes, Icons, colors, background effects, ext.
+- Use Ionic’s animation utilities or CSS transitions.
+
+6. Use Ionic Components
+- Prioritize using Ionic's built-in components (e.g., ion-card, ion-button, ion-icon, ion-header, etc.) for maximum flexibility and native look.
+
+7. Media Files (Very Important)
+- Do not download or attach any external media files (icons, images, etc.) into the project.
+- Instead: 
+- - Use placeholder containers or comments where media is used.
+- - Comment the code clearly with:
+- - - Expected file name
+- - - Recommended file size & dimensions
+- - - Suggested path where the media should be added
+- - - Aspect ratio or alignment tips if relevant
+- Also document all these details in the README.md under a Media Requirements section.
+
+8. Project Environment
+- Ionic Version: 7+
+- Angular: Latest supported version with Ionic
+- Node.js: v22.14.0
+- Project Type: Ionic Angular standalone project
+- Use SCSS for styling if applicable
+
+9. README.md Requirements
+Include a detailed README.md with the following:
+- How to install & run the project (ionic serve)
+- Component structure overview
+- Media Requirements section:
+- - List of all media (images, icons, etc.) used in the UI
+- - Where each media file should be added (path)
+- - Expected dimensions, file names, and aspect ratios
+
+10. Final Deliverable
+- Provide the full ZIP file of the Ionic Angular UI project without node modules and unnecessary files.
+- Must be build-ready, with no missing files or errors.
+- All assets not included should be properly commented and documented.
+
+Summary
+- UI-only implementation based on the image.
+- Focus on clean, scalable component-based code.
+- Do not download or attach media — just comment and document.
+- Match the layout and appearance exactly, with responsive design and animations.
+- Include a complete README.md with project and media details.
+
+Let me know if you have any questions before starting.
+Thanks!

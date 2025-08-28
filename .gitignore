@@ -1,0 +1,22 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+package-lock.json
+yarn.lock
+*.jks
+*.p12
+*.key
+*.mobileprovision
+node_modules
+node_modules
+
+# System File
+Thumbs.db
+.idea
+# macOS system files
+*.DS_Store
+*/.DS_Store
+**/.DS_Store
+.DS_Store
+# misc
+*.pem
